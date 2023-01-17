@@ -51,12 +51,13 @@ How to use the software:
 To start the program, refer to compilation and execution instructions above.
 Once the program has begun, you will be presented with a menu consisting of 6 options plus a 0th option.
 To view what each option states, type the corresponding number in the terminal when prompted.
+
 Each option has a unique function and goes as follows:
-1 - Prints all employees and their individual data
-2 - Prints all patients and their individual data
-3 - Allows to search for a patient by last name. You will be prompted again to enter a last name. (This is case sensitive)
+- 1 - Prints all employees and their individual data
+- 2 - Prints all patients and their individual data
+- 3 - Allows to search for a patient by last name. You will be prompted again to enter a last name. (This is case sensitive)
 After entry, if it is a valid name in the system, the patients with that last name will be presented.
-4 - Summary of all employee data will be presented, overall summary as well as summary within each position.
-5 - Summary of all Patient data will be presented, overall summary as well as summary within each department.
-6 - will display the sized of the structures used in the amount of bytes they take up in memory. (PersonRec, PatientRec and EmployeeRec)
-0 - entering 0 to quit will prompt the user again to confirm decision. If confirmed, program exits, else, program continues and menu is displayed again
+- 4 - Summary of all employee data will be presented, overall summary as well as summary within each position.
+- 5 - Summary of all Patient data will be presented, overall summary as well as summary within each department.
+- 6 - will display the sized of the structures used in the amount of bytes they take up in memory. (PersonRec, PatientRec and EmployeeRec)
+- 0 - entering 0 to quit will prompt the user again to confirm decision. If confirmed, program exits, else, program continues and menu is displayed again
