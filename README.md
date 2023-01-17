@@ -33,7 +33,7 @@ Files populateRecords.c and populateRecords.h – are used to populate the array
 
 
 --------------------------------------------------------
-Code ompilation: 
+Code Compilation: 
 --------------------------------------------------------
 Use the makefile and type "make" in terminal within project directory
 
